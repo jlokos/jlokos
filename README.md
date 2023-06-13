@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Lokos</h1>
-<h3 align="center">I'm a front-end web designer + developer. I'm currently a Junior Finance Major at Penn State.</h3>
+<h3 align="center">I'm a designer + developer. I'm currently a Rising Senior Finance Major at Penn State.</h3>
 
 - 🔭 I’m currently working on **Freelance Web Development**
 
