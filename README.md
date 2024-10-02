@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Lokos</h1>
-<h3 align="center">I am recent alumnus of Penn State, where I majored in Finance and minored in Technological Entrepreneurship.
-I am actively exploring full-time opportunities in Software Engineering, Finance & FinTech.</h3>
+<h3 align="center">I'm currently actively seeking full-time opportunities in Software Engineering & Finance. I'm passionate about building innovative solutions and leveraging technology to solve real-world problems.</h3>
 
 - 👨‍💻 Check out some of my projects [here](https://www.justinlokos.com/projects)
 
