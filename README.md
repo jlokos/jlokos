@@ -22,6 +22,7 @@ i build ai-powered systems across fintech, healthcare, and research infrastructu
 
 ### latest open source
 
+- 👤 **[datahuman](https://github.com/jlokos/datahuman)** - "Datadog for Humans" live input telemetry, WHOOP BLE heart rate ingestion, and local SQLite storage.
 - 🔌 **[raybridge](https://github.com/jlokos/raybridge)** - MCP server that bridges raycast extensions to any mcp-compatible client
 - 📝 **[granola](https://github.com/jlokos/granola)** - raycast extension for granola notes (search, export, transcripts, youtube)
 - 📊 **[tedata_openbb_backend](https://github.com/jlokos/tedata_openbb_backend)** - trading economics data backend for openbb workspace
